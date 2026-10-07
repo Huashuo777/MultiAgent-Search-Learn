@@ -299,5 +299,5 @@ MultiAgent-Search/
 ---
 
 ## 📄 License
-
+基于原作者链接 https://github.com/jayergood/MultiAgent-Search 进行修改完善
 MIT License — 随意使用、修改、分发。基于本项目做了有趣的东西，欢迎提 PR 😄
