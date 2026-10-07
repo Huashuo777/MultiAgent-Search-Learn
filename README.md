@@ -102,7 +102,7 @@ sequenceDiagram
 
 ### 环境要求
 
-- **Python 3.10+**
+- **Python 3.11+**
 - OpenAI 兼容的 LLM API Key（DeepSeek / 通义千问 / OpenAI 均可）
 - Tavily API Key（[免费注册](https://tavily.com)，每月 1000 次）
 
